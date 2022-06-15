@@ -29,6 +29,20 @@ permalink: /homelab/
 
 ## Infrastructure
 
+### WAN
+
 - [Traefik](https://traefik.gnsh.touko.moe:5100/)
 
 - [Portainer](https://port.gnsh.touko.moe:5100/)
+
+### LAN
+
+- [OpenWRT](http://192.168.31.1)
+
+- [AdGuard-internal](http://192.168.31.1:3001)
+
+- [AdGuard-external](http://192.168.31.1:3000)
+
+- [OpenClash](http://192.168.31.1:9090/ui/#/proxies)
+
+- [Portainer](http://192.168.31.1:9000)
