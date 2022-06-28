@@ -10,22 +10,26 @@ permalink: /services/
 
 ## Public
 
-- [AO3 Reverse Mirror](https://ao3.insky.jp/)
+- [AO3 Reverse Mirror](https://ao3.insky.jp/) (at AWS)
 
-- [Standard Notes](https://sn.insky.jp/)
+- [Standard Notes](https://sn.insky.jp/) (at Homelab)
 
 ## Private (Contact me if you want to use them.)
 
-- [Meteor](https://meteor.insky.jp/)
+- [Meteor](https://meteor.insky.jp/) （at Homelab）
 
-- [Librorum](https://librorum.insky.jp/)
+- [Librorum](https://librorum.insky.jp/) (at Aliyun)
 
-- Comet
+- [Pico](https://pico.insky.jp/) (at Aliyun)
 
-- SoraCloud
+- [Shlink](https://s.insky.jp/) (at Aliyun)
+
+- Comet (at Aliyun)
+
+- SoraCloud (everywhere)
 
 ## Infrastructure
 
-- [Traefik for Insky](https://traefik.insky.jp/)
+- [Traefik for Insky](https://traefik.insky.jp/) (at Aliyun)
 
-- [Portainer](https://port.insky.jp/)
+- [Portainer](https://port.insky.jp/) (at Aliyun)

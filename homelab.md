@@ -12,28 +12,28 @@ permalink: /homelab/
 
 - [Synology](https://gnsh.touko.moe:5001/)
 
-- [PhotoPrism](https://photoprism.gnsh.touko.moe:5100)
+- [PhotoPrism](https://photoprism.gnsh.touko.moe)
 
 
 ## Media
 
-- [Plex](https://plex.gnsh.touko.moe:5100/)
+- [Plex](https://plex.gnsh.touko.moe/)
 
-- [qBittorrent Web UI](https://qb.gnsh.touko.moe:5100/)
+- [qBittorrent Web UI](https://qb.gnsh.touko.moe/)
 
-- [Emby](https://emby.gnsh.touko.moe:5100/)
+- [Emby](https://emby.gnsh.touko.moe/)
 
-- [Jellyfin](https://jellyfin.gnsh.touko.moe:5100/)
+- [Jellyfin](https://jellyfin.gnsh.touko.moe/)
 
-- [Komga](https://komga.gnsh.touko.moe:5100/)
+- [Komga](https://komga.gnsh.touko.moe/)
 
 ## Infrastructure
 
 ### WAN
 
-- [Traefik](https://traefik.gnsh.touko.moe:5100/)
+- [Traefik](https://traefik.gnsh.touko.moe/)
 
-- [Portainer](https://port.gnsh.touko.moe:5100/)
+- [Portainer](https://port.gnsh.touko.moe/)
 
 ### LAN
 
